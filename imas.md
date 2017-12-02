@@ -20,6 +20,8 @@ layout: page
 
 ![LoveLiver](https://raw.githubusercontent.com/mzp/LoveLiver/m%40ster/LoveLiver-osx/Assets.xcassets/AppIcon.appiconset/icon128.png)
 
+作成例 [⭐💎.tumblr.com](http://xn--f7i7917m.tumblr.com/)
+
 ### [PhotoStudioPlayer](https://github.com/banjun/PhotoStudioPlayer)
 
 デレステフォトスタジオの背景をリアルタイムに透過してMacの画面にアイドルを立たせる
