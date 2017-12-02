@@ -12,7 +12,7 @@ layout: page
 主にiOS・macOSをターゲットにアプリをつくる。
 かわいいを技術でサポートし，かわいいを楽しむ。
 
-[アイマスハッカソンなどを開催している#imas_hack](https://imas.connpass.com) を応援しています。Slackにもいます。
+[アイマスハッカソンを開催している#imas_hack](https://imas.connpass.com) を応援しています。Slackにもいます。
 
 ### [LoveLiver](https://github.com/mzp/LoveLiver)
 
