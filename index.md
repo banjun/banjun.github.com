@@ -10,7 +10,7 @@ layout: page
 * <https://github.com/banjun>
 * <https://twitter.com/banjun>
 * <https://speakerdeck.com/banjun>
-* <http://banjun.hatenablog.com>
+* <https://banjun.hatenablog.com>
 * <https://imastodon.net/@banjun>
 
 
