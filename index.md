@@ -12,6 +12,7 @@ layout: page
 * <https://speakerdeck.com/banjun>
 * <https://banjun.hatenablog.com>
 * <https://imastodon.net/@banjun>
+* <https://keybase.io/banjun>
 
 
 
