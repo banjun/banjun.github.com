@@ -13,6 +13,7 @@ layout: page
 * <https://banjun.hatenablog.com>
 * <https://imastodon.net/@banjun>
 * <https://keybase.io/banjun>
+* <https://anchor.fm/kinokoru>
 
 
 
