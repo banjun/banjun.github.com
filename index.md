@@ -14,6 +14,7 @@ layout: page
 * <https://imastodon.net/@banjun>
 * <https://keybase.io/banjun>
 * <https://anchor.fm/kinokoru>
+* <https://note.com/banjun>
 
 
 
