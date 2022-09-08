@@ -12,9 +12,12 @@ layout: page
 * <https://speakerdeck.com/banjun>
 * <https://banjun.hatenablog.com>
 * <https://imastodon.net/@banjun>
-* <https://keybase.io/banjun>
 * <https://anchor.fm/kinokoru>
 * <https://note.com/banjun>
+* <https://www.youtube.com/channel/UCVXYOHRKNis46SBM1sE30Yw/>
+
+
+<!-- * <https://keybase.io/banjun> -->
 
 
 
