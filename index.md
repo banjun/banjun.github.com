@@ -8,13 +8,17 @@ layout: page
 # Accounts
 
 * <https://github.com/banjun>
-* <https://twitter.com/banjun>
-* <https://speakerdeck.com/banjun>
-* <https://banjun.hatenablog.com>
+* <https://x.com/banjun>
 * <https://imastodon.net/@banjun>
-* <https://anchor.fm/kinokoru>
+* <https://speakerdeck.com/banjun>
+* <https://www.youtube.com/@banjun0153>
+* <https://banjun.hatenablog.com>
 * <https://note.com/banjun>
-* <https://www.youtube.com/channel/UCVXYOHRKNis46SBM1sE30Yw/>
+
+A member of:
+
+* <https://anchor.fm/kinokoru>
+* <https://www.youtube.com/@avpjp>
 
 
 <!-- * <https://keybase.io/banjun> -->
